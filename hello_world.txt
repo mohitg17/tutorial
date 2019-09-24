@@ -1,5 +1,3 @@
 Hello World!
 
 Hello World again
-
-different from remote to create conflict
